@@ -67,7 +67,7 @@ const App = () => {
           <div className="text-center p-4 p-md-5 shadow-lg rounded-5 bg-white" 
                style={{ maxWidth: '450px', width: '100%', zIndex: 5, border: '4px solid #ffc1cf' }}>
             
-            <h2 className="mb-4 fw-bold text-dark display-5">Will you be my Valentine?</h2>
+            <h2 className="mb-4 fw-bold text-dark display-5">Shruti !! Will you be my Valentine?</h2>
             
             <div className="mb-4">
                 <img 
