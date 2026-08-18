@@ -53,7 +53,7 @@ const App = () => {
             className="text-center p-4 p-md-5 bg-white shadow-lg rounded-5"
             style={{ maxWidth: '450px', width: '100%', border: '4px solid #ffc1cf' }}
           >
-            <h1 className="display-4 text-danger fw-bold">Success! ❤️</h1>
+            <h1 className="display-4 text-danger fw-bold">Success my world! ❤️</h1>
             <p className="lead fw-bold">I knew you couldn't resist!</p>
             <img 
               src="/sona.gif" 
